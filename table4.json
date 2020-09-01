@@ -1,0 +1,187 @@
+[
+   {
+      "Type(s) of plastics detected": "ABS",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 54.8,
+      "Average Particle Size mm": 4,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "Alkyd",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 163.3,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "EPS",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 4463,
+      "Average Particle Size mm": 5,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "HDPE",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 8720,
+      "Average Particle Size mm": 5,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "HDPE",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 163.3,
+      "Average Particle Size mm": 5,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "LDPE",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 163.3,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "Not Recorded",
+      "Total plastics": 5,
+      "Average Concentration (particles/kg dw)": 2907.416,
+      "Average Particle Size mm": 8.944,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "Not Recorded",
+      "Total plastics": 4,
+      "Average Concentration (particles/kg dw)": 1397.325,
+      "Average Particle Size mm": 3.25,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "PA",
+      "Total plastics": 2,
+      "Average Concentration (particles/kg dw)": 84.165,
+      "Average Particle Size mm": 1,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PA",
+      "Total plastics": 2,
+      "Average Concentration (particles/kg dw)": 660.35,
+      "Average Particle Size mm": 27.5,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "PE",
+      "Total plastics": 4,
+      "Average Concentration (particles/kg dw)": 2523.875,
+      "Average Particle Size mm": 16,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "PE",
+      "Total plastics": 5,
+      "Average Concentration (particles/kg dw)": 964.54,
+      "Average Particle Size mm": 29,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PET",
+      "Total plastics": 2,
+      "Average Concentration (particles/kg dw)": 4989,
+      "Average Particle Size mm": 27.5,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "PET",
+      "Total plastics": 2,
+      "Average Concentration (particles/kg dw)": 82.05,
+      "Average Particle Size mm": 100,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PEVA",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 163.3,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PL",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 28.9,
+      "Average Particle Size mm": 10,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PL",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 25,
+      "Average Particle Size mm": 5,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "PP",
+      "Total plastics": 3,
+      "Average Concentration (particles/kg dw)": 45.5,
+      "Average Particle Size mm": 3.0003,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "PP",
+      "Total plastics": 5,
+      "Average Concentration (particles/kg dw)": 959.086,
+      "Average Particle Size mm": 35.333,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PS",
+      "Total plastics": 2,
+      "Average Concentration (particles/kg dw)": 4387.4,
+      "Average Particle Size mm": 4.5,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "PS",
+      "Total plastics": 5,
+      "Average Concentration (particles/kg dw)": 964.54,
+      "Average Particle Size mm": 29,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PU",
+      "Total plastics": 2,
+      "Average Concentration (particles/kg dw)": 2232.315,
+      "Average Particle Size mm": 5,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PVA",
+      "Total plastics": 2,
+      "Average Concentration (particles/kg dw)": 84.165,
+      "Average Particle Size mm": 1,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "PVC",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 62.7,
+      "Average Particle Size mm": 5,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "PVC",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 0.8,
+      "Average Particle Size mm": 100,
+      "Location Type": "Beach"
+   },
+   {
+      "Type(s) of plastics detected": "rayon",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 10,
+      "Average Particle Size mm": 0.001,
+      "Location Type": "Coast"
+   },
+   {
+      "Type(s) of plastics detected": "styrofoam",
+      "Total plastics": 1,
+      "Average Concentration (particles/kg dw)": 1.63,
+      "Location Type": "Beach"
+   }
+]

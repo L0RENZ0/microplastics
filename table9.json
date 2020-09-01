@@ -1,0 +1,173 @@
+[
+   {
+      "Seafood": "Marine fish",
+      "Region": "America",
+      "Seafood consumption(kg/capita/year)": 0.53,
+      "Concentration of microplastics(# particles/g)": 0.02,
+      "Estimation of microplastic intake (particle/capita/year)": 11
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "America",
+      "Seafood consumption(kg/capita/year)": 0.53,
+      "Concentration of microplastics(# particles/g)": 25.9,
+      "Estimation of microplastic intake (particle/capita/year)": 13727
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "Oceania",
+      "Seafood consumption(kg/capita/year)": 2.53
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "Asia",
+      "Seafood consumption(kg/capita/year)": 1.62,
+      "Concentration of microplastics(# particles/g)": 0.57,
+      "Estimation of microplastic intake (particle/capita/year)": 923
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "Asia",
+      "Seafood consumption(kg/capita/year)": 1.62,
+      "Concentration of microplastics(# particles/g)": 1.85,
+      "Estimation of microplastic intake (particle/capita/year)": 2997
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "Europe",
+      "Seafood consumption(kg/capita/year)": 0.53,
+      "Concentration of microplastics(# particles/g)": 0.06,
+      "Estimation of microplastic intake (particle/capita/year)": 32
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "Europe",
+      "Seafood consumption(kg/capita/year)": 0.53,
+      "Concentration of microplastics(# particles/g)": 2,
+      "Estimation of microplastic intake (particle/capita/year)": 1060
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "Africa",
+      "Seafood consumption(kg/capita/year)": 0.87
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "Global",
+      "Seafood consumption(kg/capita/year)": 1.25,
+      "Concentration of microplastics(# particles/g)": 0.02,
+      "Estimation of microplastic intake (particle/capita/year)": 25
+   },
+   {
+      "Seafood": "Marine fish",
+      "Region": "Global",
+      "Seafood consumption(kg/capita/year)": 1.25,
+      "Concentration of microplastics(# particles/g)": 25.9,
+      "Estimation of microplastic intake (particle/capita/year)": 32375
+   },
+   {
+      "Seafood": "Crustacean",
+      "Region": "America",
+      "Seafood consumption(kg/capita/year)": 2.54
+   },
+   {
+      "Seafood": "Crustacean",
+      "Region": "Oceania",
+      "Seafood consumption(kg/capita/year)": 3.77
+   },
+   {
+      "Seafood": "Crustacean",
+      "Region": "Asia",
+      "Seafood consumption(kg/capita/year)": 1.99
+   },
+   {
+      "Seafood": "Crustacean",
+      "Region": "Europe",
+      "Seafood consumption(kg/capita/year)": 1.76,
+      "Concentration of microplastics(# particles/g)": 0.18,
+      "Estimation of microplastic intake (particle/capita/year)": 317
+   },
+   {
+      "Seafood": "Crustacean",
+      "Region": "Europe",
+      "Seafood consumption(kg/capita/year)": 1.76,
+      "Concentration of microplastics(# particles/g)": 10.9,
+      "Estimation of microplastic intake (particle/capita/year)": 19184
+   },
+   {
+      "Seafood": "Crustacean",
+      "Region": "Africa",
+      "Seafood consumption(kg/capita/year)": 0.15
+   },
+   {
+      "Seafood": "Crustacean",
+      "Region": "Global",
+      "Seafood consumption(kg/capita/year)": 1.79,
+      "Concentration of microplastics(# particles/g)": 0.18,
+      "Estimation of microplastic intake (particle/capita/year)": 322
+   },
+   {
+      "Seafood": "Crustacean",
+      "Region": "Global",
+      "Seafood consumption(kg/capita/year)": 1.79,
+      "Concentration of microplastics(# particles/g)": 10.9,
+      "Estimation of microplastic intake (particle/capita/year)": 19511
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "America",
+      "Seafood consumption(kg/capita/year)": 1.64
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "Oceania",
+      "Seafood consumption(kg/capita/year)": 2.65
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "Asia",
+      "Seafood consumption(kg/capita/year)": 3.37,
+      "Concentration of microplastics(# particles/g)": 0.9,
+      "Estimation of microplastic intake (particle/capita/year)": 3033
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "Asia",
+      "Seafood consumption(kg/capita/year)": 3.37,
+      "Concentration of microplastics(# particles/g)": 10.5,
+      "Estimation of microplastic intake (particle/capita/year)": 35385
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "Europe",
+      "Seafood consumption(kg/capita/year)": 1.95,
+      "Concentration of microplastics(# particles/g)": 0.2,
+      "Estimation of microplastic intake (particle/capita/year)": 390
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "Europe",
+      "Seafood consumption(kg/capita/year)": 1.95,
+      "Concentration of microplastics(# particles/g)": 13.1,
+      "Estimation of microplastic intake (particle/capita/year)": 25545
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "Africa",
+      "Seafood consumption(kg/capita/year)": 0.03
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "Global",
+      "Seafood consumption(kg/capita/year)": 2.5,
+      "Concentration of microplastics(# particles/g)": 0.2,
+      "Estimation of microplastic intake (particle/capita/year)": 500
+   },
+   {
+      "Seafood": "Molluscs",
+      "Region": "Global",
+      "Seafood consumption(kg/capita/year)": 2.5,
+      "Concentration of microplastics(# particles/g)": 13.1,
+      "Estimation of microplastic intake (particle/capita/year)": 32750
+   }
+]
