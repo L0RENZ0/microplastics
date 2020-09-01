@@ -1,0 +1,242 @@
+[
+   {
+      "Region": "Asia",
+      "Location": "Indonesia, Cilacap coast",
+      "Concentration (particles/m3)": 0.27,
+      "Sampling depth (cm)": 20,
+      "Particle size (mm)": 2.5,
+      "Type of polymer(s)": "PET, HDPE, PVC, LDPE, PP, PS, PC"
+   },
+   {
+      "Region": "Asia",
+      "Location": "Indonesia, Cilacap coast",
+      "Concentration (particles/m3)": 0.54,
+      "Sampling depth (cm)": 20,
+      "Particle size (mm)": 5,
+      "Type of polymer(s)": "PET, HDPE, PVC, LDPE, PP, PS, PC"
+   },
+   {
+      "Region": "Asia",
+      "Location": "Japan, Seto Inland Sea",
+      "Concentration (particles/m3)": 0.4,
+      "Sampling depth (cm)": 75,
+      "Particle size (mm)": 0.01,
+      "Type of polymer(s)": "PE, PP"
+   },
+   {
+      "Region": "Asia",
+      "Location": "Japan, Seto Inland Sea",
+      "Concentration (particles/m3)": 0.4,
+      "Sampling depth (cm)": 75,
+      "Particle size (mm)": 1,
+      "Type of polymer(s)": "PE, PP"
+   },
+   {
+      "Region": "Asia",
+      "Location": "Japan, Sea of Japan",
+      "Concentration (particles/m3)": 3.74,
+      "Sampling depth (cm)": 75,
+      "Particle size (mm)": 0.01,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "Asia",
+      "Location": "Japan, Sea of Japan",
+      "Concentration (particles/m3)": 3.74,
+      "Sampling depth (cm)": 75,
+      "Particle size (mm)": 1,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "Asia",
+      "Location": "China, southern estuaries",
+      "Concentration (particles/m3)": 100,
+      "Sampling depth (cm)": 30,
+      "Particle size (mm)": 0.5,
+      "Type of polymer(s)": "PE, PP, PTFE, PVC"
+   },
+   {
+      "Region": "Asia",
+      "Location": "China, southern estuaries",
+      "Concentration (particles/m3)": 4100,
+      "Sampling depth (cm)": 30,
+      "Particle size (mm)": 5,
+      "Type of polymer(s)": "PE, PP, PTFE, PVC"
+   },
+   {
+      "Region": "Asia",
+      "Location": "South Korea, Incheon/Kyeonggi coastal region",
+      "Concentration (particles/m3)": 152688,
+      "Sampling depth (cm)": 0.4,
+      "Particle size (mm)": 0.05,
+      "Type of polymer(s)": "Paint particles, EPS, PET, PP, PVA, PVC, PVS"
+   },
+   {
+      "Region": "Asia",
+      "Location": "South Korea, Incheon/Kyeonggi coastal region",
+      "Concentration (particles/m3)": 152688,
+      "Sampling depth (cm)": 0.4,
+      "Particle size (mm)": 2,
+      "Type of polymer(s)": "Paint particles, EPS, PET, PP, PVA, PVC, PVS"
+   },
+   {
+      "Region": "Asia",
+      "Location": "South Korea, Incheon/Kyeonggi coastal region",
+      "Concentration (particles/m3)": 1602,
+      "Sampling depth (cm)": 30,
+      "Particle size (mm)": 0.05,
+      "Type of polymer(s)": "Paint particles, EPS, PE, PET, PP, PVA, PVC, PVS"
+   },
+   {
+      "Region": "Asia",
+      "Location": "South Korea, Incheon/Kyeonggi coastal region",
+      "Concentration (particles/m3)": 1602,
+      "Sampling depth (cm)": 30,
+      "Particle size (mm)": 2,
+      "Type of polymer(s)": "Paint particles, EPS, PE, PET, PP, PVA, PVC, PVS"
+   },
+   {
+      "Region": "Asia",
+      "Location": "South Korea, Jinhae Bay",
+      "Concentration (particles/m3)": 12600,
+      "Sampling depth (cm)": 0.015,
+      "Particle size (mm)": 0.05,
+      "Type of polymer(s)": "Acrylic, paint resin particles, PE, PET, phenoxy resin, PL, PP, PS, PVC, synthetic rubber"
+   },
+   {
+      "Region": "Asia",
+      "Location": "South Korea, Jinhae Bay",
+      "Concentration (particles/m3)": 12600,
+      "Sampling depth (cm)": 0.04,
+      "Particle size (mm)": 2,
+      "Type of polymer(s)": "Acrylic, paint resin particles, PE, PET, phenoxy resin, PL, PP, PS, PVC, synthetic rubber"
+   },
+   {
+      "Region": "Asia",
+      "Location": "Hong Kong, coastal regions",
+      "Concentration (particles/m3)": 0.51,
+      "Sampling depth (cm)": 0.0153,
+      "Particle size (mm)": 0.03,
+      "Type of polymer(s)": "HDPE, LDPE, PP, PP - ethylene propylene, SA"
+   },
+   {
+      "Region": "Asia",
+      "Location": "Hong Kong, coastal regions",
+      "Concentration (particles/m3)": 279.9,
+      "Sampling depth (cm)": 0.0153,
+      "Particle size (mm)": 4.96,
+      "Type of polymer(s)": "HDPE, LDPE, PP, PP - ethylene propylene, SA"
+   },
+   {
+      "Region": "Europe",
+      "Location": "Portugal, coastal waters",
+      "Concentration (particles/m3)": 0.002,
+      "Sampling depth (cm)": 20,
+      "Particle size (mm)": 0.18,
+      "Type of polymer(s)": "Alkyd resin, polyacrylate, PE, PP"
+   },
+   {
+      "Region": "Europe",
+      "Location": "Portugal, coastal waters",
+      "Concentration (particles/m3)": 0.036,
+      "Sampling depth (cm)": 20,
+      "Particle size (mm)": 0.325,
+      "Type of polymer(s)": "Alkyd resin, polyacrylate, PE, PP"
+   },
+   {
+      "Region": "Europe",
+      "Location": "Germany, Rostock coast (Warnemünde)",
+      "Concentration (particles/m3)": 3300,
+      "Sampling depth (cm)": 2,
+      "Particle size (mm)": 0.055,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "Europe",
+      "Location": "Germany, Rostock coast (Warnemünde)",
+      "Concentration (particles/m3)": 3300,
+      "Sampling depth (cm)": 4,
+      "Particle size (mm)": 1,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "North America",
+      "Location": "Canada, Northern Pacific Ocean and Coastal British Columbia",
+      "Concentration (particles/m3)": 8,
+      "Sampling depth (cm)": 450,
+      "Particle size (mm)": 0.0648,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "North America",
+      "Location": "Canada, Northern Pacific Ocean and Coastal British Columbia",
+      "Concentration (particles/m3)": 9200,
+      "Sampling depth (cm)": 450,
+      "Particle size (mm)": 5.81,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "South America",
+      "Location": "Brazil, Jurujuba Cove",
+      "Concentration (particles/m3)": 16.4,
+      "Sampling depth (cm)": 20,
+      "Particle size (mm)": 1,
+      "Type of polymer(s)": "PE, PP"
+   },
+   {
+      "Region": "South America",
+      "Location": "Brazil, Jurujuba Cove",
+      "Concentration (particles/m3)": 16.4,
+      "Sampling depth (cm)": 20,
+      "Particle size (mm)": 5,
+      "Type of polymer(s)": "PE, PP"
+   },
+   {
+      "Region": "Africa",
+      "Location": "South Africa, south eastern coastline",
+      "Concentration (particles/m3)": 257.9,
+      "Sampling depth (cm)": 45,
+      "Particle size (mm)": 0.008,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "Africa",
+      "Location": "South Africa, south eastern coastline",
+      "Concentration (particles/m3)": 1215,
+      "Sampling depth (cm)": 45,
+      "Particle size (mm)": 0.5,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "Middle East",
+      "Location": "Israel, Mediterranean Coast",
+      "Concentration (particles/m3)": 7.68,
+      "Sampling depth (cm)": 10,
+      "Particle size (mm)": 0.03,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "Middle East",
+      "Location": "Israel, Mediterranean Coast",
+      "Concentration (particles/m3)": 7.68,
+      "Sampling depth (cm)": 10,
+      "Particle size (mm)": 0.5,
+      "Type of polymer(s)": "NR"
+   },
+   {
+      "Region": "Australia",
+      "Location": "Coastal waters around Australia",
+      "Concentration (particles/m3)": 0.007,
+      "Sampling depth (cm)": 17,
+      "Particle size (mm)": 0.4,
+      "Type of polymer(s)": "EVA, PE, PP, PS"
+   },
+   {
+      "Region": "Australia",
+      "Location": "Coastal waters around Australia",
+      "Concentration (particles/m3)": 0.053,
+      "Sampling depth (cm)": 30,
+      "Particle size (mm)": 82.6,
+      "Type of polymer(s)": "EVA, PE, PP, PS"
+   }
+]
