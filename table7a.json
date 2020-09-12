@@ -10,7 +10,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "16",
@@ -23,7 +23,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "22",
@@ -36,7 +36,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "23",
@@ -49,7 +49,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "26",
@@ -62,7 +62,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "29",
@@ -75,7 +75,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "31",
@@ -88,7 +88,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "44",
@@ -101,7 +101,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "46",
@@ -114,7 +114,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "54",
@@ -127,7 +127,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "55",
@@ -140,7 +140,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "56",
@@ -153,7 +153,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "58",
@@ -166,7 +166,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "60",
@@ -179,7 +179,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "61",
@@ -192,7 +192,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "68",
@@ -205,7 +205,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "72",
@@ -218,7 +218,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "74",
@@ -231,7 +231,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "75",
@@ -244,7 +244,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "77",
@@ -257,7 +257,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "78",
@@ -270,7 +270,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "80",
@@ -283,7 +283,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "84",
@@ -296,7 +296,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "86",
@@ -309,7 +309,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "87",
@@ -322,7 +322,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "90",
@@ -335,7 +335,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "91",
@@ -345,10 +345,10 @@
       "Standard Length (cm)": 4.9,
       "Total Length (cm)": 5.9,
       "Weight (g)": 3,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "94",
@@ -361,7 +361,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "95",
@@ -371,10 +371,10 @@
       "Standard Length (cm)": 4.6,
       "Total Length (cm)": 5.6,
       "Weight (g)": 2.3,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "96",
@@ -384,10 +384,10 @@
       "Standard Length (cm)": 4.7,
       "Total Length (cm)": 5.6,
       "Weight (g)": 2.3,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "97",
@@ -397,10 +397,10 @@
       "Standard Length (cm)": 4.2,
       "Total Length (cm)": 5.2,
       "Weight (g)": 1.8,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "99",
@@ -410,10 +410,10 @@
       "Standard Length (cm)": 4.3,
       "Total Length (cm)": 5.3,
       "Weight (g)": 2,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "100",
@@ -426,7 +426,7 @@
       "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "101",
@@ -439,7 +439,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "103",
@@ -449,10 +449,10 @@
       "Standard Length (cm)": 3.6,
       "Total Length (cm)": 4.4,
       "Weight (g)": 1.3,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "107",
@@ -462,10 +462,10 @@
       "Standard Length (cm)": 3.8,
       "Total Length (cm)": 4.8,
       "Weight (g)": 1.4,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "108",
@@ -475,10 +475,10 @@
       "Standard Length (cm)": 3.6,
       "Total Length (cm)": 4.3,
       "Weight (g)": 1.1,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "112",
@@ -491,7 +491,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "116",
@@ -504,7 +504,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "118",
@@ -517,7 +517,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "119",
@@ -530,7 +530,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "120",
@@ -543,7 +543,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "121",
@@ -556,7 +556,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "127",
@@ -569,7 +569,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "129",
@@ -582,7 +582,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "132",
@@ -595,7 +595,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "134",
@@ -608,7 +608,7 @@
       "Sex": "Male",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "145",
@@ -618,10 +618,10 @@
       "Standard Length (cm)": 5.7,
       "Total Length (cm)": 7,
       "Weight (g)": 5.3,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "146",
@@ -631,10 +631,10 @@
       "Standard Length (cm)": 5.9,
       "Total Length (cm)": 7.1,
       "Weight (g)": 5.6,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "148",
@@ -644,10 +644,10 @@
       "Standard Length (cm)": 5.6,
       "Total Length (cm)": 6.9,
       "Weight (g)": 4.9,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "149",
@@ -657,10 +657,10 @@
       "Standard Length (cm)": 5.4,
       "Total Length (cm)": 6.2,
       "Weight (g)": 3.8,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did not ingest",
       "Plastic Colour": "No",
-      "Number Ingested": "0"
+      "Number Ingested": 0
    },
    {
       "ID": "39",
@@ -709,7 +709,7 @@
       "Standard Length (cm)": 4.2,
       "Total Length (cm)": 5.2,
       "Weight (g)": 2.2,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Green",
       "Number Ingested": 1
@@ -852,7 +852,7 @@
       "Standard Length (cm)": 5.8,
       "Total Length (cm)": 6.9,
       "Weight (g)": 5.4,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Black",
       "Number Ingested": 1
@@ -865,7 +865,7 @@
       "Standard Length (cm)": 5.8,
       "Total Length (cm)": 6.9,
       "Weight (g)": 5.4,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Blue",
       "Number Ingested": 1
@@ -878,7 +878,7 @@
       "Standard Length (cm)": 5.8,
       "Total Length (cm)": 6.9,
       "Weight (g)": 5.4,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Red",
       "Number Ingested": 1
@@ -891,7 +891,7 @@
       "Standard Length (cm)": 5.6,
       "Total Length (cm)": 6.9,
       "Weight (g)": 5.8,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Green",
       "Number Ingested": 1
@@ -995,7 +995,7 @@
       "Standard Length (cm)": 4.8,
       "Total Length (cm)": 5.7,
       "Weight (g)": 2.5,
-      "Sex": "?",
+      "Sex": "Unknown",
       "Plastic": "Did ingest",
       "Plastic Colour": "Green",
       "Number Ingested": 1
@@ -1008,7 +1008,7 @@
       "Standard Length (cm)": 4.8,
       "Total Length (cm)": 5.7,
       "Weight (g)": 2.5,
-      "Sex": "?",
+      "Sex": "Unknown",
       "Plastic": "Did ingest",
       "Plastic Colour": "Blue",
       "Number Ingested": 1
@@ -1086,7 +1086,7 @@
       "Standard Length (cm)": 5.2,
       "Total Length (cm)": 6.4,
       "Weight (g)": 5,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Red",
       "Number Ingested": 2
@@ -1099,7 +1099,7 @@
       "Standard Length (cm)": 5.7,
       "Total Length (cm)": 6.9,
       "Weight (g)": 5.1,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Blue",
       "Number Ingested": 2
@@ -1112,7 +1112,7 @@
       "Standard Length (cm)": 5.7,
       "Total Length (cm)": 6.9,
       "Weight (g)": 5.1,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Red",
       "Number Ingested": 1
@@ -1138,7 +1138,7 @@
       "Standard Length (cm)": 5.7,
       "Total Length (cm)": 6.9,
       "Weight (g)": 5.1,
-      "Sex": "F ",
+      "Sex": "Female",
       "Plastic": "Did ingest",
       "Plastic Colour": "Blue",
       "Number Ingested": 1
