@@ -109,105 +109,6 @@
    },
    {
       "Continent": "Asia",
-      "Location": "China",
-      "Species": "Liza haemotocheila(Mullet)",
-      "Habitat": "Pelagic",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 3.3
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Coilia ectenes(Anchovy)",
-      "Habitat": "Pelagic",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 4
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Lateolabrax japonicas(Japan Sea Bass)",
-      "Habitat": "Pelagic",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 2.1
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Sillago sihama(Silver Sillago)",
-      "Habitat": "Pelagic",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 2.8
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Larimichthys crocea(Large yellow croaker)",
-      "Habitat": "Pelagic",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 4.6
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Psenopsis anomala(Pacific Rudderfish)",
-      "Habitat": "Pelagic",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 1.1
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Mugil cephalus(Black Mullet)",
-      "Habitat": "Demersal",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 3.7
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Terapon jarbua(Tiger Perch)",
-      "Habitat": "Demersal",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 3
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Sebastiscus marmoratus(False Kelpfish)",
-      "Habitat": "Demersal",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 4.2
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Photopectoralis bindus(Orangefin Ponyfish)",
-      "Habitat": "Demersal",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 4.1
-   },
-   {
-      "Continent": "Asia",
-      "Location": "China",
-      "Species": "Oxyeleotrix marmorata(Marbled goby)",
-      "Habitat": "Demersal",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 100,
-      "Concentration": 4.2
-   },
-   {
-      "Continent": "Asia",
       "Location": "Japan",
       "Species": "Engraulis japonicas(Japanese anchovy)",
       "Habitat": "Benthic",
@@ -466,24 +367,6 @@
    {
       "Continent": "Europe",
       "Location": "Spain",
-      "Species": "(trawling net)",
-      "Habitat": "Unknown",
-      "Tissue": "GIT",
-      "# individual ingested MPs (%)": "",
-      "Concentration": 0.32
-   },
-   {
-      "Continent": "Europe",
-      "Location": "Spain",
-      "Species": "(trammel net)",
-      "Habitat": "Unknown",
-      "Tissue": "GIT",
-      "# individual ingested MPs (%)": "",
-      "Concentration": 0.68
-   },
-   {
-      "Continent": "Europe",
-      "Location": "Spain",
       "Species": "Boops boops(Bogue)",
       "Habitat": "Demersal",
       "Tissue": "GIT",
@@ -673,28 +556,10 @@
    {
       "Continent": "Europe",
       "Location": "Denmark",
-      "Species": "Gadus morhua(Atlantic Cod Baltic Sea)",
-      "Habitat": "Unknown",
-      "Tissue": "GIT",
-      "# individual ingested MPs (%)": 16,
-      "Concentration": ""
-   },
-   {
-      "Continent": "Europe",
-      "Location": "Denmark",
       "Species": "Clupea harengus(Atlantic Herring North Sea)",
       "Habitat": "Pelagic",
       "Tissue": "GIT",
       "# individual ingested MPs (%)": 30,
-      "Concentration": ""
-   },
-   {
-      "Continent": "Europe",
-      "Location": "Denmark",
-      "Species": "Clupea harengus(Atlantic Herring Baltic Sea)",
-      "Habitat": "Unknown",
-      "Tissue": "GIT",
-      "# individual ingested MPs (%)": 7,
       "Concentration": ""
    },
    {
@@ -714,33 +579,6 @@
       "Tissue": "GIT",
       "# individual ingested MPs (%)": "",
       "Concentration": ""
-   },
-   {
-      "Continent": "Europe",
-      "Location": "UK",
-      "Species": "Riverine 1",
-      "Habitat": "Unknown",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 90,
-      "Concentration": 0.43
-   },
-   {
-      "Continent": "Europe",
-      "Location": "UK",
-      "Species": "Estuarine",
-      "Habitat": "Unknown",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 71,
-      "Concentration": 0.33
-   },
-   {
-      "Continent": "Europe",
-      "Location": "UK",
-      "Species": "Riverine 2",
-      "Habitat": "Unknown",
-      "Tissue": "Unknown",
-      "# individual ingested MPs (%)": 83,
-      "Concentration": 0.85
    },
    {
       "Continent": "Europe",
