@@ -31,7 +31,7 @@
       "Location": "Malaysia",
       "Species": "Chelon subviridis(Greenback mullet)",
       "Habitat": "Demersal",
-      "Tissue": "Viscera",
+      "Tissue": "GIT",
       "# individual ingested MPs (%)": 30,
       "Concentration": 2
    },
@@ -49,7 +49,7 @@
       "Location": "Malaysia",
       "Species": "Johnius belangerii(Belanger’s croaker)",
       "Habitat": "Demersal",
-      "Tissue": "Viscera",
+      "Tissue": "GIT",
       "# individual ingested MPs (%)": 40,
       "Concentration": 3
    },
@@ -67,7 +67,7 @@
       "Location": "Malaysia",
       "Species": "Ratrelliger kanagurta(Indian mackerel)",
       "Habitat": "Pelagic",
-      "Tissue": "Viscera",
+      "Tissue": "GIT",
       "# individual ingested MPs (%)": 10,
       "Concentration": 2
    },
@@ -809,7 +809,7 @@
       "Continent": "South America",
       "Location": "Brazil",
       "Species": "Hyporhamphus unifasciatus(Common Halfbeak)",
-      "Habitat": "Reefs",
+      "Habitat": "Reef",
       "Tissue": "GIT",
       "# individual ingested MPs (%)": "",
       "Concentration": 0.15
@@ -818,7 +818,7 @@
       "Continent": "South America",
       "Location": "Brazil",
       "Species": "Oligoplites saurus(Leatherjacket)",
-      "Habitat": "Reefs",
+      "Habitat": "Reef",
       "Tissue": "GIT",
       "# individual ingested MPs (%)": "",
       "Concentration": 0.17
@@ -845,7 +845,7 @@
       "Continent": "South America",
       "Location": "Brazil",
       "Species": "Eucinostomus argenteus(Silver Mojarra)",
-      "Habitat": "Reefs",
+      "Habitat": "Reef",
       "Tissue": "GIT",
       "# individual ingested MPs (%)": "",
       "Concentration": 0.02
@@ -862,7 +862,7 @@
       "Continent": "South America",
       "Location": "Brazil",
       "Species": "Achirus lineatus",
-      "Habitat": "Reefs",
+      "Habitat": "Reef",
       "Tissue": "GIT",
       "# individual ingested MPs (%)": "",
       "Concentration": 0.5
@@ -880,7 +880,7 @@
       "Continent": "South America",
       "Location": "Brazil",
       "Species": "Sphoeroides testudineus(Checkered Puffer)",
-      "Habitat": "Reefs",
+      "Habitat": "Reef",
       "Tissue": "GIT",
       "# individual ingested MPs (%)": "",
       "Concentration": 0.09
